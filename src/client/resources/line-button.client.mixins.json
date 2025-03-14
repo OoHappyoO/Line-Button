@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "gg.happy.linebutton.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftClientMixin",
+    "PressableWidgetMixin",
+    "SliderWidgetMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
