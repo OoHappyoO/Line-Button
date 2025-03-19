@@ -15,7 +15,7 @@ class ButtonRender : RenderAdapter()
     )
     {
         val a = update(isSelected)
-        val b = (width * a * 0.5 * getMultiple(isActive)).toInt()
+        val b = (width * a * 0.5 * getMultiplier(isActive)).toInt()
 
         val midX = x + width / 2
         if (b != 0)
@@ -29,9 +29,9 @@ class ButtonRender : RenderAdapter()
             )
     }
 
-    private fun getMultiple(isActive: Boolean) =
-        if (isActive) conf.line.buttonMultiple
-        else conf.line.disableMultiple
+    private fun getMultiplier(isActive: Boolean) =
+        if (isActive) conf.line.buttonMultiplier
+        else conf.line.disableMultiplier
 
     private fun draw(context: DrawContext, x1: Int, y1: Int, x2: Int, y2: Int, isActive: Boolean)
     {

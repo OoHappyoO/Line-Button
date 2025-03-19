@@ -25,9 +25,9 @@ class Conf : ConfigData
     {
         var duration = 400
 
-        var buttonMultiple = 1.0
+        var buttonMultiplier = 1.0
 
-        var disableMultiple = 0.5
+        var disableMultiplier = 0.5
 
         @ConfigEntry.ColorPicker(allowAlpha = true)
         var color = 0xFFFBFBFB.toInt()
