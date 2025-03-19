@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.line-button.title": "Line Button 设置",
+  "text.autoconfig.line-button.option.line": "线 设置",
+  "text.autoconfig.line-button.option.line.duration": "动画长度",
+  "text.autoconfig.line-button.option.line.buttonMultiple": "长度倍数",
+  "text.autoconfig.line-button.option.line.disableMultiple": "禁用时长度倍数",
+  "text.autoconfig.line-button.option.line.color": "颜色",
+  "text.autoconfig.line-button.option.line.shadowColor": "阴影颜色",
+  "text.autoconfig.line-button.option.line.sliderBackgroundColor": "拖动条背景颜色",
+  "text.autoconfig.line-button.option.line.disabledColor": "禁用时颜色",
+  "text.autoconfig.line-button.option.text": "文本设置",
+  "text.autoconfig.line-button.option.text.color": "颜色",
+  "text.autoconfig.line-button.option.text.disabledColor": "禁用时颜色",
+  "text.autoconfig.line-button.option.text.hoveredColor": "选中时颜色"
+}

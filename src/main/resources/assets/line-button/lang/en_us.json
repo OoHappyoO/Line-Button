@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.line-button.title": "Line Button Settings",
+  "text.autoconfig.line-button.option.line": "Line Settings",
+  "text.autoconfig.line-button.option.line.duration": "Animation Duration",
+  "text.autoconfig.line-button.option.line.buttonMultiple": "Length Multiplier",
+  "text.autoconfig.line-button.option.line.disableMultiple": "Disabled Length Multiplier",
+  "text.autoconfig.line-button.option.line.color": "Color",
+  "text.autoconfig.line-button.option.line.shadowColor": "Shadow Color",
+  "text.autoconfig.line-button.option.line.sliderBackgroundColor": "Slider Background Color",
+  "text.autoconfig.line-button.option.line.disabledColor": "Disabled Color",
+  "text.autoconfig.line-button.option.text": "Text Settings",
+  "text.autoconfig.line-button.option.text.color": "Color",
+  "text.autoconfig.line-button.option.text.disabledColor": "Disabled Color",
+  "text.autoconfig.line-button.option.text.hoveredColor": "Hovered Color"
+}
